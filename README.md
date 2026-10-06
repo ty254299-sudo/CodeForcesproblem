@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 4 |
+| 6 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (2)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [math](#math) (3)
 - [strings](#strings) (2)
 
@@ -31,6 +31,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.py) |
 
 ### math
 
