@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 3 |
+| 4 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [math](#math) (2)
+- [math](#math) (3)
 - [strings](#strings) (1)
 
 ---
@@ -30,6 +30,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/318/A%20-%20Even%20Odds/solution.py) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/617/A%20-%20Elephant/solution.py) |
 
 ### strings
 
