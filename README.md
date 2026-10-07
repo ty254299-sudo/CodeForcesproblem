@@ -6,16 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 4 |
+| 8 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (2)
-- [implementation](#implementation) (2)
-- [math](#math) (3)
-- [strings](#strings) (2)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (3)
+- [math](#math) (4)
+- [strings](#strings) (3)
 
 ---
 
@@ -26,18 +27,26 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/50/A%20-%20Domino%20piling/solution.py) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.py) |
+| 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.py) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/50/A%20-%20Domino%20piling/solution.py) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/318/A%20-%20Even%20Odds/solution.py) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/617/A%20-%20Elephant/solution.py) |
 
@@ -47,6 +56,7 @@
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.py) |
 
 ---
 
