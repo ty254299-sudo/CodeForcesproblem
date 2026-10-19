@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 5 |
+| 12 | 5 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (7)
 - [math](#math) (4)
-- [strings](#strings) (3)
+- [strings](#strings) (5)
 
 ---
 
@@ -37,8 +37,12 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/41/A%20-%20Translation/solution.py) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.py) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.py) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.py) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.py) |
 
 ### math
@@ -54,7 +58,9 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/41/A%20-%20Translation/solution.py) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.py) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Python 3](https://github.com/ty254299-sudo/CodeForcesproblem/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.py) |
 
